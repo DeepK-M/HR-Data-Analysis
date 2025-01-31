@@ -1,4 +1,4 @@
-## HR Analytics: Exploratory Data Analysis (EDA)
+ ## HR Analytics: Exploratory Data Analysis (EDA)
 This repository contains an in-depth Exploratory Data Analysis (EDA) of an HR dataset. The goal of this analysis is to uncover insights related to employee attrition, satisfaction, performance, and other key HR metrics.
 
 ## 📌 Project Overview
@@ -27,4 +27,4 @@ Sentiment analysis of employee feedback.
 Implementing machine learning for retention strategies.
 
 
-##🔗 Feel free to explore, contribute, or share insights!
+## 🔗 Feel free to explore, contribute, or share insights!
